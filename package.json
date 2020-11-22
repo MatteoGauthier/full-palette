@@ -1,6 +1,6 @@
 {
   "name": "full-palette",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Tailwind preset to add full tailwind palette",
   "main": "tailwind.config.js",
   "author": "Mattèo Gauthier <matteo.gauthier@gmail.com>",
