@@ -6,6 +6,6 @@
   "author": "Mattèo Gauthier <matteo.gauthier@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "tailwindcss": "^2.0.1"
+    "tailwindcss": "^2.2.4"
   }
 }
